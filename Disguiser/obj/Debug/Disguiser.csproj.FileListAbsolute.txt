@@ -1,0 +1,9 @@
+G:\编程项目\C#\Disguiser\Disguiser\bin\Debug\Disguiser.exe.config
+G:\编程项目\C#\Disguiser\Disguiser\bin\Debug\Disguiser.exe
+G:\编程项目\C#\Disguiser\Disguiser\bin\Debug\Disguiser.pdb
+G:\编程项目\C#\Disguiser\Disguiser\obj\Debug\Disguiser.csprojAssemblyReference.cache
+G:\编程项目\C#\Disguiser\Disguiser\obj\Debug\Disguiser.MainWindow.resources
+G:\编程项目\C#\Disguiser\Disguiser\obj\Debug\Disguiser.Properties.Resources.resources
+G:\编程项目\C#\Disguiser\Disguiser\obj\Debug\Disguiser.csproj.GenerateResource.cache
+G:\编程项目\C#\Disguiser\Disguiser\obj\Debug\Disguiser.exe
+G:\编程项目\C#\Disguiser\Disguiser\obj\Debug\Disguiser.pdb
